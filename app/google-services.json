@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859251634131",
+    "project_id": "zoonails",
+    "storage_bucket": "zoonails.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859251634131:android:40f488314d0fb72de6c926",
+        "android_client_info": {
+          "package_name": "com.lfo.zoonails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859251634131-ok1ccbi9pv4rflrqtticr1ftm27kgabc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lfo.zoonails",
+            "certificate_hash": "7d1be7ab0823c1d6edb5596ec28e433b87183e90"
+          }
+        },
+        {
+          "client_id": "859251634131-ffopa2gl22s6q81fi2blami667v86i0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLx_fac3us_Ix0HG4E_4gj_FUi1H9_Efo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859251634131-ffopa2gl22s6q81fi2blami667v86i0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

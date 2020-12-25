@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/menu_ad,@drawable/menu_case,@drawable/menu_pet,@drawable/menu_price,@drawable/menu_reserv,@drawable/menu_way"/>

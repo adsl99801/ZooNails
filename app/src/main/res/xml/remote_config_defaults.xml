@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>menuVoList</key>
+        <value>[
+            {
+            "image": "menu_case",
+            "text": "客人分享",
+            "link": "https://bit.ly/3mNkMBx"
+            },
+            {
+            "image": "menu_price",
+            "text": "價目表",
+            "link": "https://bit.ly/2KxyyuI"
+            },
+            {
+            "image": "menu_way",
+            "text": "預約方式",
+            "link": "https://bit.ly/3rlAJCe"
+            },
+            {
+            "image": "menu_reserv",
+            "text": "開放預約時間",
+            "link": "https://bit.ly/2LYasts"
+            },
+            {
+            "image": "menu_ad",
+            "text": "優惠活動",
+            "link": "https://bit.ly/3rscHpi"
+            },
+            {
+            "image": "menu_pet",
+            "text": "店寵",
+            "link": "https://bit.ly/2JoOxuM"
+            }
+            ]</value>
+        <key>itemcount</key>
+        <value>6</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
